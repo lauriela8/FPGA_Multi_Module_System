@@ -1,4 +1,4 @@
-# FPGA_Multi_Module_System 🚀
+# FPGA_Multi_Module_System 
 
 **Verilog 기반 멀티 모듈 FPGA 시스템**  
 Timer, Stopwatch, HC-SR04 초음파 센서, DHT11 온습도 센서, UART(FIFO 포함) 제어 로직을 직접 설계 및 검증하였습니다.  
